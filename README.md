@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **maliniv.vibin@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/malini-vibin-6b252327](www.linkedin.com/in/malini-vibin-6b252327)
+- 📄 Know about my experiences [www.linkedin.com/in/malini-vibin-6b252327](www.linkedin.com/in/malini-vibin-6b252327)<br>
+      Portfolio - [https://malinivibin.my.canva.site/](https://malinivibin.my.canva.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
