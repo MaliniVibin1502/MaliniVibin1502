@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malinivibin1502&label=Profile%20views&color=0e75b6&style=flat" alt="malinivibin1502" /> </p>
 
-- 🔭 I’m currently working on **getting certified Data Scientist**
+- 🔭 I’m currently working on **getting certified as a Data Scientist**
 
 - 🌱 I’m currently learning **Python for analysis, Machine learning, Deep learning and Big Data analysis**
 
 - 👨‍💻 All of my projects are available at In my Github repositories
+  
+   [https://github.com/MaliniVibin1502/pythonprojects](https://github.com/MaliniVibin1502/pythonprojects)<br>
+   [https://github.com/MaliniVibin1502/freecodecampprojects](https://github.com/MaliniVibin1502/freecodecampprojects)
 
 - 📫 How to reach me **maliniv.vibin@gmail.com**
 
